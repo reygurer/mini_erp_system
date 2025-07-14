@@ -1,0 +1,13 @@
+# SQLite veritabanı dosyası
+*.db
+
+# Python cache klasörleri
+__pycache__/
+*.pyc
+
+# Rapor dosyaları
+/reports/
+/mini_erp/reports/
+
+/*.xlsx
+/*.pdf
